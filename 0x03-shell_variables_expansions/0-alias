@@ -1,2 +1,3 @@
 #!/bin/bash
-alias menu='./menuScript.sh'
+alias [ls [=rm*]]
+
